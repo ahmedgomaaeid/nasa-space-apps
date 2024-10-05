@@ -1,0 +1,9 @@
+flask
+fastapi
+uvicorn[standard]
+folium
+requests
+pandas
+pystac_client
+httpx
+plotly
