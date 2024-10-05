@@ -1,0 +1,452 @@
+{
+    "Human Cause": {
+        "CO2": {
+            "OCO-2 MIP Top-down CO₂ Budgets": [
+                {
+                    "collection_name": "oco2-mip-co2budget-yeargrid-v1",
+                    "collection_date": "yearly",
+                    "asset_name": "ff",
+                    "text": "fossil fuel",
+                    "start_date": "2015",
+                    "end_date": "2020",
+                    "color": "purd"
+                },
+                {
+                    "collection_name": "oco2-mip-co2budget-yeargrid-v1",
+                    "collection_date": "yearly",
+                    "asset_name": "crop",
+                    "text": "crop",
+                    "start_date": "2015",
+                    "end_date": "2020",
+                    "color": "purd"
+                },
+                {
+                    "collection_name": "oco2-mip-co2budget-yeargrid-v1",
+                    "collection_date": "yearly",
+                    "asset_name": "wood",
+                    "text": "wood",
+                    "start_date": "2015",
+                    "end_date": "2020",
+                    "color": "purd"
+                },
+                {
+                    "collection_name": "oco2-mip-co2budget-yeargrid-v1",
+                    "collection_date": "yearly",
+                    "asset_name": "river",
+                    "text": "river",
+                    "start_date": "2015",
+                    "end_date": "2020",
+                    "color": "purd"
+                },
+                {
+                    "collection_name": "oco2-mip-co2budget-yeargrid-v1",
+                    "collection_date": "yearly",
+                    "asset_name": "ff-std",
+                    "text": "fossil fuel-std",
+                    "start_date": "2015",
+                    "end_date": "2020",
+                    "color": "purd"
+                },
+                {
+                    "collection_name": "oco2-mip-co2budget-yeargrid-v1",
+                    "collection_date": "yearly",
+                    "asset_name": "crop-std",
+                    "text": "crop-std",
+                    "start_date": "2015",
+                    "end_date": "2020",
+                    "color": "purd"
+                },
+                {
+                    "collection_name": "oco2-mip-co2budget-yeargrid-v1",
+                    "collection_date": "yearly",
+                    "asset_name": "wood-std",
+                    "text": "wood-std",
+                    "start_date": "2015",
+                    "end_date": "2020",
+                    "color": "purd"
+                },
+                {
+                    "collection_name": "oco2-mip-co2budget-yeargrid-v1",
+                    "collection_date": "yearly",
+                    "asset_name": "river-std",
+                    "text": "river-std",
+                    "start_date": "2015",
+                    "end_date": "2020",
+                    "color": "purd"
+                },
+                {
+                    "collection_name": "oco2-mip-co2budget-yeargrid-v1",
+                    "collection_date": "yearly",
+                    "asset_name": "lnlgis-nbe",
+                    "text": "lnlgis-nbe",
+                    "start_date": "2015",
+                    "end_date": "2020",
+                    "color": "purd"
+                },
+                {
+                    "collection_name": "oco2-mip-co2budget-yeargrid-v1",
+                    "collection_date": "yearly",
+                    "asset_name": "lnlgis-nce",
+                    "text": "lnlgis-nce",
+                    "start_date": "2015",
+                    "end_date": "2020",
+                    "color": "purd"
+                },
+                {
+                    "collection_name": "oco2-mip-co2budget-yeargrid-v1",
+                    "collection_date": "yearly",
+                    "asset_name": "lnlgis-dc-loss",
+                    "text": "lnlgis-dc-loss",
+                    "start_date": "2015",
+                    "end_date": "2020",
+                    "color": "purd"
+                },
+                {
+                    "collection_name": "oco2-mip-co2budget-yeargrid-v1",
+                    "collection_date": "yearly",
+                    "asset_name": "lnlgis-nbe-std",
+                    "text": "lnlgis-nbe-std",
+                    "start_date": "2015",
+                    "end_date": "2020",
+                    "color": "purd"
+                },
+                {
+                    "collection_name": "oco2-mip-co2budget-yeargrid-v1",
+                    "collection_date": "yearly",
+                    "asset_name": "lnlgis-nce-std",
+                    "text": "lnlgis-nce-std",
+                    "start_date": "2015",
+                    "end_date": "2020",
+                    "color": "purd"
+                },
+                {
+                    "collection_name": "oco2-mip-co2budget-yeargrid-v1",
+                    "collection_date": "yearly",
+                    "asset_name": "lnlgis-dc-loss-std",
+                    "text": "lnlgis-dc-loss-std",
+                    "start_date": "2015",
+                    "end_date": "2020",
+                    "color": "purd"
+                }
+            ],
+            "ODIAC Fossil Fuel CO₂ Emissions": [
+                {
+                    "collection_name": "odiac-ffco2-monthgrid-v2023",
+                    "collection_date": "monthly",
+                    "asset_name": "co2-emissions",
+                    "text": "co2 emissions",
+                    "start_date": "2000-01",
+                    "end_date": "2022-12",
+                    "color" :"rainbow"
+                }
+            ],
+            
+            "OCO-2 GEOS Column CO₂ Concentrations": [
+                {
+                    "collection_name": "oco2geos-co2-daygrid-v10r",
+                    "collection_date": "daily",
+                    "asset_name": "xco2",
+                    "text": "xco2",
+                    "start_date": "2015-01-01",
+                    "end_date": "2022-02-28",
+                    "color" :"magma"
+                }
+            ]
+        }
+    },
+    "Natural Cause":{
+        "CH4": {
+            "TM5-4DVar Isotopic CH₄ Inverse Fluxes": [
+            {
+                "collection_name": "tm54dvar-ch4flux-monthgrid-v1",
+                "collection_date": "monthly",
+                "asset_name": "fossil",
+                "text": "fossil",
+                "start_date": "1999-01-01",
+                "end_date": "2016-12-01",
+                "color": "purd"
+            },
+            {
+                "collection_name": "tm54dvar-ch4flux-monthgrid-v1",
+                "collection_date": "monthly",
+                "asset_name": "microbial",
+                "text": "microbial",
+                "start_date": "1999-01-01",
+                "end_date": "2016-12-01",
+                "color": "purd"
+            },{
+                "collection_name": "tm54dvar-ch4flux-monthgrid-v1",
+                "collection_date": "monthly",
+                "asset_name": "pyrogenic",
+                "text": "pyrogenic",
+                "start_date": "1999-01-01",
+                "end_date": "2016-12-01",
+                "color": "purd"
+            },{
+                "collection_name": "tm54dvar-ch4flux-monthgrid-v1",
+                "collection_date": "monthly",
+                "asset_name": "total",
+                "text": "total",
+                "start_date": "1999-01-01",
+                "end_date": "2016-12-01",
+                "color": "purd"
+            }
+            ],
+            "Wetland Methane Emissions, LPJ-EOSIM Model": [
+                {
+                    "collection_name": "lpjeosim-wetlandch4-daygrid-v2",
+                    "collection_date": "daily",
+                    "asset_name": "ensemble-mean-ch4-wetlands-emissions",
+                    "text": "ensemble mean ch4 wetlands emissions",
+                    "start_date": "2010-09-23",
+                    "end_date": "2024-05-31",
+                    "color": "magma"
+                },
+                {
+                    "collection_name": "lpjeosim-wetlandch4-daygrid-v2",
+                    "collection_date": "daily",
+                    "asset_name": "era5-ch4-wetlands-emissions",
+                    "text": "era5 ch4 wetlands emissions",
+                    "start_date": "2010-09-23",
+                    "end_date": "2024-05-31",
+                    "color": "magma"
+                },
+                {
+                    "collection_name": "lpjeosim-wetlandch4-daygrid-v2",
+                    "collection_date": "daily",
+                    "asset_name": "merra2-ch4-wetlands-emissions",
+                    "text": "merra2 ch4 wetlands emissions",
+                    "start_date": "2010-09-23",
+                    "end_date": "2024-05-31",
+                    "color": "magma"
+                }
+            ],
+            "GOSAT-based Top-down Total and Natural Methane Emissions": [
+                {
+                    "collection_name": "gosat-based-ch4budget-yeargrid-v1",
+                    "collection_date": "yearly",
+                    "asset_name": "prior-total",
+                    "text": "prior total",
+                    "start_date": "2019",
+                    "end_date": "2019",
+                    "color": "rainbow"
+                },{
+                    "collection_name": "gosat-based-ch4budget-yeargrid-v1",
+                    "collection_date": "yearly",
+                    "asset_name": "post-total",
+                    "text": "post total",
+                    "start_date": "2019",
+                    "end_date": "2019",
+                    "color": "rainbow"
+                },{
+                    "collection_name": "gosat-based-ch4budget-yeargrid-v1",
+                    "collection_date": "yearly",
+                    "asset_name": "post-wetland",
+                    "text": "post wetland",
+                    "start_date": "2019",
+                    "end_date": "2019",
+                    "color": "rainbow"
+                },{
+                    "collection_name": "gosat-based-ch4budget-yeargrid-v1",
+                    "collection_date": "yearly",
+                    "asset_name": "prior-wetland",
+                    "text": "prior wetland",
+                    "start_date": "2019",
+                    "end_date": "2019",
+                    "color": "rainbow"
+                },{
+                    "collection_name": "gosat-based-ch4budget-yeargrid-v1",
+                    "collection_date": "yearly",
+                    "asset_name": "post-wetland-uncertainty",
+                    "text": "post wetland uncertainty",
+                    "start_date": "2019",
+                    "end_date": "2019",
+                    "color": "rainbow"
+                },{
+                    "collection_name": "gosat-based-ch4budget-yeargrid-v1",
+                    "collection_date": "yearly",
+                    "asset_name": "prior-wetland-uncertainty",
+                    "text": "prior wetland uncertainty",
+                    "start_date": "2019",
+                    "end_date": "2019",
+                    "color": "rainbow"
+                }
+                
+            ]
+        },
+        "CO2": {
+            "Air-Sea CO₂ Flux, ECCO-Darwin Model v5": [
+                {
+                    "collection_name": "eccodarwin-co2flux-monthgrid-v5",
+                    "collection_date": "monthly",
+                    "asset_name": "co2",
+                    "text": "co2",
+                    "start_date": "2020-01-01",
+                    "end_date": "2022-12-01",
+                    "color": "magma"
+                }
+            
+            ],
+            "MiCASA Land Carbon Flux": [
+                {
+                    "collection_name": "micasa-carbonflux-daygrid-v1",
+                    "collection_date": "daily",
+                    "asset_name": "npp",
+                    "text": "npp",
+                    "start_date": "2001-01-01",
+                    "end_date": "2023-12-31",
+                    "color": "purd"
+                },
+                {
+                    "collection_name": "micasa-carbonflux-daygrid-v1",
+                    "collection_date": "daily",
+                    "asset_name": "rh",
+                    "text": "rh",
+                    "start_date": "2001-01-01",
+                    "end_date": "2023-12-31",
+                    "color": "purd"
+                },
+                {
+                    "collection_name": "micasa-carbonflux-daygrid-v1",
+                    "collection_date": "daily",
+                    "asset_name": "nee",
+                    "text": "nee",
+                    "start_date": "2001-01-01",
+                    "end_date": "2023-12-31",
+                    "color": "purd"
+                },
+                {
+                    "collection_name": "micasa-carbonflux-daygrid-v1",
+                    "collection_date": "daily",
+                    "asset_name": "nbe",
+                    "text": "nbe",
+                    "start_date": "2001-01-01",
+                    "end_date": "2023-12-31",
+                    "color": "purd"
+                },
+                {
+                    "collection_name": "micasa-carbonflux-daygrid-v1",
+                    "collection_date": "daily",
+                    "asset_name": "fire",
+                    "text": "fire",
+                    "start_date": "2001-01-01",
+                    "end_date": "2023-12-31",
+                    "color": "purd"
+                },
+                {
+                    "collection_name": "micasa-carbonflux-daygrid-v1",
+                    "collection_date": "daily",
+                    "asset_name": "fuel",
+                    "text": "fuel",
+                    "start_date": "2001-01-01",
+                    "end_date": "2023-12-31",
+                    "color": "purd"
+                },
+                {
+                    "collection_name": "micasa-carbonflux-daygrid-v1",
+                    "collection_date": "daily",
+                    "asset_name": "atmc",
+                    "text": "atmc",
+                    "start_date": "2001-01-01",
+                    "end_date": "2023-12-31",
+                    "color": "purd"
+                }
+            ]
+        }
+        
+        
+    },
+    "Large Emission Events":{
+        "CH4": {
+            "TM5-4DVar Isotopic CH₄ Inverse Fluxes": [
+            {
+                "collection_name": "tm54dvar-ch4flux-monthgrid-v1",
+                "collection_date": "monthly",
+                "asset_name": "fossil",
+                "text": "fossil",
+                "start_date": "1999-01-01",
+                "end_date": "2016-12-01",
+                "color": "purd"
+            },
+            {
+                "collection_name": "tm54dvar-ch4flux-monthgrid-v1",
+                "collection_date": "monthly",
+                "asset_name": "microbial",
+                "text": "microbial",
+                "start_date": "1999-01-01",
+                "end_date": "2016-12-01",
+                "color": "purd"
+            },{
+                "collection_name": "tm54dvar-ch4flux-monthgrid-v1",
+                "collection_date": "monthly",
+                "asset_name": "pyrogenic",
+                "text": "pyrogenic",
+                "start_date": "1999-01-01",
+                "end_date": "2016-12-01",
+                "color": "purd"
+            },{
+                "collection_name": "tm54dvar-ch4flux-monthgrid-v1",
+                "collection_date": "monthly",
+                "asset_name": "total",
+                "text": "total",
+                "start_date": "1999-01-01",
+                "end_date": "2016-12-01",
+                "color": "purd"
+            }
+            ],
+            "GOSAT-based Top-down Total and Natural Methane Emissions": [
+                {
+                    "collection_name": "gosat-based-ch4budget-yeargrid-v1",
+                    "collection_date": "yearly",
+                    "asset_name": "prior-total",
+                    "text": "prior total",
+                    "start_date": "2019",
+                    "end_date": "2019",
+                    "color": "rainbow"
+                },{
+                    "collection_name": "gosat-based-ch4budget-yeargrid-v1",
+                    "collection_date": "yearly",
+                    "asset_name": "post-total",
+                    "text": "post total",
+                    "start_date": "2019",
+                    "end_date": "2019",
+                    "color": "rainbow"
+                },{
+                    "collection_name": "gosat-based-ch4budget-yeargrid-v1",
+                    "collection_date": "yearly",
+                    "asset_name": "post-wetland",
+                    "text": "post wetland",
+                    "start_date": "2019",
+                    "end_date": "2019",
+                    "color": "rainbow"
+                },{
+                    "collection_name": "gosat-based-ch4budget-yeargrid-v1",
+                    "collection_date": "yearly",
+                    "asset_name": "prior-wetland",
+                    "text": "prior wetland",
+                    "start_date": "2019",
+                    "end_date": "2019",
+                    "color": "rainbow"
+                },{
+                    "collection_name": "gosat-based-ch4budget-yeargrid-v1",
+                    "collection_date": "yearly",
+                    "asset_name": "post-wetland-uncertainty",
+                    "text": "post wetland uncertainty",
+                    "start_date": "2019",
+                    "end_date": "2019",
+                    "color": "rainbow"
+                },{
+                    "collection_name": "gosat-based-ch4budget-yeargrid-v1",
+                    "collection_date": "yearly",
+                    "asset_name": "prior-wetland-uncertainty",
+                    "text": "prior wetland uncertainty",
+                    "start_date": "2019",
+                    "end_date": "2019",
+                    "color": "rainbow"
+                }
+                
+            ]
+        }
+        
+    }
+}
